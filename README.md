@@ -35,7 +35,7 @@ Posteriormente, foi possível abordar conceitos matemáticos como o da distâcni
 
 --
 
-Bibliotecas utilizados
+Bibliotecas utilizadas
 > - Pandas
 > - Numpy
 > - Matplotlib
