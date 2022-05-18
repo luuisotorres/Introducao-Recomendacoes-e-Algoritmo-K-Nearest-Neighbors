@@ -6,7 +6,7 @@
 ## Objetivo
 
 Estudo realizado como introdução às metodologias para a recomendação de dez filmes a um determinado usuário, sabendo ou não seus gostos e informações.
-O dataset utilizado para estudo pode ser encontrado em  https://grouplens.org/datasets/movielens/latest/ **ml-latest.zio(size:265 MB)**.
+O dataset utilizado para estudo pode ser encontrado em  https://grouplens.org/datasets/movielens/latest/ **ml-latest.zip(size:265 MB)**.
 
 Este estudo foi realizado orientado pelos seguintes passos:
 
